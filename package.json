@@ -1,0 +1,26 @@
+{
+  "name": "teeClassicBlog",
+  "version": "1.0.0",
+  "description": "A Personal Tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tdaycode/teeclassicBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tdaycode/teeclassicBlog/issues"
+  },
+  "homepage": "https://github.com/Tdaycode/teeclassicBlog#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.3"
+  }
+}
